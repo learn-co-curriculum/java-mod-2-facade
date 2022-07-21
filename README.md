@@ -30,7 +30,7 @@ together a series of calls to leverage existing functionality in other classes:
         filmOps.rollFilm();
         filmOps.releaseFilmMechanism();
 
-        mirrorOps.openMirror();;
+        mirrorOps.openMirror();
 
         shutterOps.setShutterSpeedSetting(shutterSpeed);
         shutterOps.initializeShutter();
